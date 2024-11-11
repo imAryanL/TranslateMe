@@ -1,0 +1,9 @@
+prompt 1
+- create me a swiftui app that looks like translateme.jpg image attached
+- it needs to call this api https://api.mymemory.translated.net/get?q=Hello%20World!&langpair=en|it
+- the app will return with the translated text
+- the app needs to display the original text and the translated text
+- the app needs to have a text field for the original text and a text field for the translated text
+- the app need to have a button to call the api and display the translated text
+- the app needs to have a nice ui and be functional
+-
