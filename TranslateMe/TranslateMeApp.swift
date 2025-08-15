@@ -11,7 +11,7 @@ import SwiftUI
 struct TranslateMeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LaunchScreenView()
                 .tint(Color(red: 231/255, green: 76/255, blue: 60/255))
         }
     }
