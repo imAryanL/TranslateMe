@@ -3,6 +3,11 @@
 ## Description
 TranslateMe is an app that enables users to translate words, phrases, or sentences between languages using MyMemory’s REST API. It saves translations in Firebase, allowing users to access a history of past translations, which can be viewed or erased. This project combines SwiftUI design, networking, and data persistence to build a functional and creative translation tool.
 
+## Demo
+
+![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/78cfba5d-f748-4569-9dc5-2789897341a9)
+
+
 ## Features
 ### Required Features
 - Users open the app to a TranslateMe home page with a place to enter a word, phrase, or sentence, a button to translate, and another field that should initially be empty.
@@ -17,10 +22,6 @@ TranslateMe is an app that enables users to translate words, phrases, or sentenc
 ### Additional Features
 - Created an AppIcon along with the name of the App.
 - Created a LaunchScreen using SwiftUI.
-
-## Demo
-
-![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/78cfba5d-f748-4569-9dc5-2789897341a9)
 
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
