@@ -18,7 +18,7 @@ TranslateMe is an app that enables users to translate words, phrases, or sentenc
 - Created an AppIcon along with the name of the App.
 - Created a LaunchScreen using SwiftUI.
 
-# Demo
+## Demo
 
 ![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/78cfba5d-f748-4569-9dc5-2789897341a9)
 
